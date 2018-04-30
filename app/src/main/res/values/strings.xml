@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BoredomBuddy</string>
+    <string name="events">EVENTS</string>
+    <string name="event1">EVENTS HAPPENING NEARBY</string>
+    <string name="libraries_around_me">READ BOOKS FROM NEARBY LIBRARY</string>
+    <string name="library">BOOKS</string>
+    <string name="smile">SMILE</string>
+    <string name="talk_to_a_friend">TALK TO A FRIEND</string>
+    <string name="music1">MUSIC</string>
+    <string name="music">LISTEN TO A SONG</string>
+    <string name="call">CALL</string>
+    <string name="enter_number">ENTER NUMBER</string>
+    <string name="clean_junk">JUNK</string>
+    <string name="funfact">FUN FACTS WHICH WILL MAKE YOU SMILE</string>
+    <string name="junk">CLEAN JUNK FROM PHONE</string>
+</resources>
